@@ -42,7 +42,7 @@ Outside academics, I’m always curious about how things work and passionate abo
 
 ---
 
-## 🔗 Projectsd\
+## 🔗 Projects
 Here are some of my lab tasks:  
 
 

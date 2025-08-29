@@ -42,12 +42,13 @@ Outside academics, I’m always curious about how things work and passionate abo
 
 ---
 
-## 🔗 Project Links
+## 🔗 Projectsd\
 Here are some of my lab tasks:  
 
-- [🔸 Project 1](#) — *Short description here*  
-- [🔹 Project 2](#) — *Short description here*  
-- [🔸 Project 3](#) — *Short description here*  
+
+- [Project 1: Hanging Man Game](./HangingManGame.pdf)  
+- [Project 2: Library System Management](./LibrarySystem.pdf) 
+ 
 
 ---
 

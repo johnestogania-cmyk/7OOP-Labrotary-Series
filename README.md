@@ -1,11 +1,10 @@
-# 7OOP-Labrotary-Series
+# 7OOP-Laboratory-Series
 My series of Object Oriented Programming lab activities and projects.
 
 ---
 
- <p align="center"> :wave: Welcome! I'm Johnest Wheyne D. Ogania
-</p>
 <p align="center">
+  <b>Johnest Wheyne D. Ogania</b><br>
   <img src="me.jpg" alt="My Picture" width="350" style="border-radius:50%">
 </p>
 

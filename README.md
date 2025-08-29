@@ -46,8 +46,8 @@ Outside academics, I’m always curious about how things work and passionate abo
 Here are some of my lab tasks:  
 
 
-- [Project 1: Hanging Man Game](./HangingManGame.pdf)  
-- [Project 2: Library System Management](./LibrarySystem.pdf) 
+- [Project: Hanging Man Game](./project2.pdf)  
+- [Project: Library System Management](./project1.pdf) 
  
 
 ---

@@ -3,7 +3,8 @@ My series of Object Oriented Programming lab activities and projects.
 
 ---
 
-# <p align="center">  :wave: Welcome! I'm Johnest Wheyne D. Ogania </p>
+# <p align="center">  :wave: Welcome! I'm Johnest Wheyne D. Ogania 
+</p>
 <p align="center">
   <img src="me.jpg" alt="My Picture" width="350" style="border-radius:50%">
 </p>

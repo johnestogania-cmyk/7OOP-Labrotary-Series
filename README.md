@@ -67,4 +67,4 @@ Let’s connect!
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/johnestogania-cmyk)
 
 ---
-✨ *This repository is part of my 7OOP Laboratory Projects.*  
+

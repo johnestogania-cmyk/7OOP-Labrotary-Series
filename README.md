@@ -63,7 +63,7 @@ Here are some of my lab tasks:
 Let’s connect!  
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://www.facebook.com/johnestwheyneogania)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)]([your-instagram-link](https://www.instagram.com/whewhey_/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)]([your-instagram-link](https://www.instagram.com/whewhey_/))  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&logo=github&logoColor=white)](https://github.com/johnestogania-cmyk)
 
 ---

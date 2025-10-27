@@ -52,6 +52,16 @@ Here are some of my lab tasks:
 
 ---
 
+## 💻 7OOP Midterm Lab Tasks
+
+- [Lab task 1:](./Ogania-7oop)
+- [Lab task 2: Using Loop and Function](./)
+- [Lab task 3: Using List Collection types](./Ogania-7oop)
+- [Lab task 4: Using Dictionaries](./Ogania-7oop)
+- [Lab task 5: Creating Class and Instantiating Objects in Python](./Ogania-7oop)
+
+---
+
 ## 🎉 Fun Facts About Me
 - I love running 🏃  
 - I am scared of chick 🐤 

@@ -54,11 +54,20 @@ Here are some of my lab tasks:
 
 ## 💻 7OOP Midterm Lab Tasks
 
-- [Lab task 1:](./Labtask1.pdf)
-- [Lab task 2: Using Loop and Function](./Labtask2.pdf)
-- [Lab task 3: Using List Collection types](./Labtask3.pdf)
-- [Lab task 4: Using Dictionaries](./Labtask4.pdf)
-- [Lab task 5: Creating Class and Instantiating Objects in Python](./Labtask5.pdf)
+- [Midterm Lab task 1:](./Labtask1.pdf)
+- [Midterm Lab task 2: Using Loop and Function](./Labtask2.pdf)
+- [Midterm Lab task 3: Using List Collection types](./Labtask3.pdf)
+- [Midterm Lab task 4: Using Dictionaries](./Labtask4.pdf)
+- [Midterm Lab task 5: Creating Class and Instantiating Objects in Python](./Labtask5.pdf)
+
+## 💻 7OOP Final Lab Tasks
+
+- [Final Lab task 1: Encapsulation](./Finallabtask1.pdf)
+- [Final Lab task 2: Inheritance](./Finallabtask2.pdf)
+- [Final Lab task 3: Polymorphism](./Finallabtask3.pdf)
+- [Final Lab task 4: Python and Tkinter GUI program](./Finallabtask4.pdf)
+- [Final Lab task 5: CRUD CLI using Python and MySQL](./Finallabtask5.pdf)
+- [Final Lab task 6: Mysql and Tkinter HUI](./Finallabtask6.pdf)
 
 ---
 
